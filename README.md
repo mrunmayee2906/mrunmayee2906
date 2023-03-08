@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mrunmayee
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Node.js and Reactjs
+- 💞️ I’m looking to collaborate on Reactjs web apps
 - 📫 How to reach me mrunmayee2906@gmail.com
 
 <!---
